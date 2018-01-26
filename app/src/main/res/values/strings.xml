@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="create">create</string>
+    <string name="userid">userid</string>
+    <string name="username">username</string>
+    <string name="avatar">avatar</string>
+</resources>
